@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "クズになったらしいじゃん",
+  "base_artist": "CHANMINA",
+  "createdAt": "2026-03-18T09:09:27.626315Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "クズになったらしいじゃん",
+      "artist": "ちゃんみな",
+      "has_synced": false,
+      "path": "select/pl_01_クズになったらしいじゃん_ちゃんみな.txt"
+    }
+  ]
+}
